@@ -1,0 +1,5 @@
+spring.application.name: workspace-cleaner
+cleaner:
+   obsolete:
+      enabled: true
+      file-name-pattern: '*'
